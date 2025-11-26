@@ -1,0 +1,5 @@
+{
+  "name": "College Event Hub",
+  "description": "A platform for students to discover, register for, and track college events. Colleges can manage their events, update scores, and publish results, while admins oversee the platform.",
+  "requestFramePermissions": []
+}
